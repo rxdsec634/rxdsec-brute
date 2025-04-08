@@ -287,8 +287,8 @@ golang.org/x/crypto              # Cryptographic operations
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/rxdsec634/RXDSEC-INSTABRUTE.git
-cd RXDSEC-INSTABRUTE
+git clone https://github.com/rxdsec634/rxdsec-brute.git
+cd instashield
 
 # Install dependencies
 go mod tidy
